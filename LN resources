@@ -1,0 +1,32 @@
+What is Bitcoin Lightning?
+--follow Andreas Antonopoulous for frequent and simply digestible videos on bitcoin/crypto topics--
+https://www.youtube.com/watch?v=Z7Q0AwbKZX8
+https://www.youtube.com/watch?v=rrr_zPmEiME&t
+https://www.youtube.com/watch?v=c4TjfaLgzj4
+
+End-to-end resource on running Lightning on a PC (no command Line interaction required):
+--follow Pierre Rochard for updates on lightning and a dabble of Bitcoin Maximalism--
+https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340
+
+Now you've setup a bitcoin node and lightning node, now you'll want a wallet with a convenient interface, enter ZAP.
+What is Zap?
+https://www.youtube.com/watch?v=A3eK7k7hJx8
+Setup guide:
+https://medium.com/lightning-power-users/easy-lightning-with-node-launcher-zap-488133edfbd
+Now you are ready to setup channels, do payments, and start routing payments!
+
+Lightning Joule is a Chrome plugin that allows you to do 'one click' in-browser payments. It interacts with the website and pops up when a payment request is received.
+(It is like metamask, but for your lightning node wallet)
+https://medium.com/lightning-power-users/bitcoin-lightning-joule-chrome-extension-ac149bb05cb9
+
+One can also setup a Lightning Node on Raspberry Pi, a mini IoT device. This requires little but some technical tinkering.
+all-in-one starter pack. This excludes an LCD screen.
+https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7
+Requirements (AUD shopping list), the LCD screen is optional.
+https://github.com/rootzoll/raspiblitz/blob/master/shoppinglist_au.md
+
+without LCD screen (interaction via pc or laptop required).
+https://github.com/Stadicus/guides/blob/master/raspibolt/README.md
+
+with LCD screen
+https://github.com/rootzoll/raspiblitz/blob/master/README.md
